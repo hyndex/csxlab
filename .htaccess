@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond $1 !^www/
+RewriteRule ^([\w\W]+)$ index.php?__url=$1 [QSA,NC,L]
