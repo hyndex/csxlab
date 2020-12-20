@@ -1,3 +1,8 @@
+# Worst Php framework
+
+i just build it for learning purpose in 2014-2015.. and now i forgot PhP lol
+![Alt Text](https://media.giphy.com/media/xULW8jvwhvl6BD0ig8/giphy.gif)
+```
 Controller name :- <name>Controller.php 
 	-> classname :- <controller>Controller
 	->default :- 404
@@ -10,8 +15,9 @@ model name :- <name>Model.php ->
 View name :- $view will have two values 
 			 $view['folder']; = it will carry the folder name where the view is present
 			 $view['file']; = it will carry the filename which need to be include
+```
 -----------------------------------------------------------------------------------------------	
-									index.php
+# index.php
 -----------------------------------------------------------------------------------------------	
 
 done	:-	url/nothing
